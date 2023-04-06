@@ -1,3 +1,11 @@
+/*
+Materia: Inteligencia Artificial
+Docente: Dr. Jose Mario Rios Felix
+Trabajo: Proyecto Lógica Difusa
+Fecha: 05/03/2023
+Autores: Cardenas Perez Mauricio y Ruiz Lizarraga Jaime Alonso
+*/
+
 
 import java.util.Scanner;
 
